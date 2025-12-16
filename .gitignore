@@ -206,10 +206,6 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 datasets/data-science-bowl-2018.zip
-.idea/.gitignore
-.idea/cell-nuclei-segmentation.iml
-.idea/misc.xml
-.idea/modules.xml
-.idea/vcs.xml
-.idea/inspectionProfiles/profiles_settings.xml
-.idea/inspectionProfiles/Project_Default.xml
+.idea/
+*.psd
+visualization.ipynb
